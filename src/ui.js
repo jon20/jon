@@ -19,19 +19,15 @@ const handleSelect = item => {
 const items = [
   {
     label: 'Website',
-    url: 'https://akameco.github.io',
+    url: 'jongz.com',
   },
   {
     label: 'Twitter',
-    url: 'https://twitter.com/akameco',
+    url: 'https://twitter.com/jon_ground',
   },
   {
     label: 'GitHub',
-    url: 'https://github.com/akameco',
-  },
-  {
-    label: 'Qiita',
-    url: 'http://qiita.com/akameco',
+    url: 'https://github.com/jon20',
   },
   {
     label: 'Quit',
