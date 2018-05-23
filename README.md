@@ -4,7 +4,7 @@ jon cli
 
 # Usage
 
-```$ npx jongroundzero```
+```$ npx jongz```
 
 ## Built with
 
