@@ -10,7 +10,7 @@
 		"url": "sindresorhus.com"
 	},
 	"bin": {
-		"sindresorhus": "source/cli.js"
+		"sindresorhus": "src/cli.js"
 	},
 	"engines": {
 		"node": ">=8"
