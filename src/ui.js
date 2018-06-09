@@ -30,6 +30,10 @@ const items = [
     url: 'https://github.com/jon20',
   },
   {
+    label: 'Blog',
+    url: 'https://jongz.hatenablog.com/'
+  },
+  {
     label: 'Quit',
     action() {
       process.exit() // eslint-disable-line no-process-exit,unicorn/no-process-exit
@@ -41,7 +45,7 @@ module.exports = () => (
   <div>
     <br />
     <div>
-      <Text>I’m a Student.</Text>
+      <Text>I'm a college student.</Text>
     </div>
     <br />
     <SelectInput items={items} onSelect={handleSelect} />
